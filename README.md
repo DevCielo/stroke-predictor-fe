@@ -2,15 +2,16 @@
 
 ## Table of Contents
 1. [Project Description](#project-description)
-2. [Features](#features)
-3. [Technologies Used](#technologies-used)
-4. [Installation](#installation)
-5. [Usage](#usage)
-6. [Contributing](#contributing)
-7. [License](#license)
+2. [Backend](#backend)
+3. [Features](#features)
+4. [Technologies Used](#technologies-used)
+5. [Installation](#installation)
+6. [Usage](#usage)
+7. [Contributing](#contributing)
+8. [License](#license)
 
 ## Project Description
-The frontend of the **Stroke Predictor Web App** is built using React. It provides users with an interactive interface where they can input medical data and receive predictions about their likelihood of experiencing a stroke. This project aims to give users a clean and responsive interface for interacting with the machine learning model hosted in the backend.
+The frontend of the **Stroke Predictor Web App** is built using React. It provides users with an interactive interface where they can input medical data and receive predictions about their likelihood of experiencing a stroke. This project aims to give users a clean and responsive interface for interacting with the machine learning model hosted in the backend. I created this project to learn how to deploy machine learning models on a web app using Flask.
 
 ## Backend
 Backend can be found at: https://github.com/DevCielo/stroke-predictor-be
